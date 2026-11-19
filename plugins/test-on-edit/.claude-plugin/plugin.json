@@ -1,0 +1,6 @@
+{
+  "name": "test-on-edit",
+  "version": "0.1.0",
+  "description": "Runs the project's own tests a few seconds after Claude edits code, shows pass/fail in the status line, and tells Claude when it broke something.",
+  "license": "MIT"
+}

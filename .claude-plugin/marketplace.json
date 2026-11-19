@@ -1,0 +1,9 @@
+{
+  "name": "golducker-claude-settings",
+  "owner": { "name": "golducker" },
+  "plugins": [
+    { "name": "secrets-guard", "source": "./plugins/secrets-guard", "description": "Blocks Claude from reading, printing or committing secrets." },
+    { "name": "test-on-edit", "source": "./plugins/test-on-edit", "description": "Runs your tests after Claude edits code and tells it when it broke something." },
+    { "name": "dev-servers", "source": "./plugins/dev-servers", "description": "Panel of running dev servers with open / stop / start." }
+  ]
+}

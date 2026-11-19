@@ -1,0 +1,7 @@
+{
+  "name": "dev-servers",
+  "version": "0.1.0",
+  "description": "A panel of the dev servers running on your machine (port, project, command) with Open, Stop and one-click Start for your projects.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

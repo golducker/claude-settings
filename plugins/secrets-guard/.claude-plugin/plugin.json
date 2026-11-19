@@ -1,0 +1,6 @@
+{
+  "name": "secrets-guard",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Stops Claude from reading, printing, editing or committing .env files, keys and other secrets, and from hardcoding API keys into source."
+}

@@ -1,0 +1,17 @@
+{
+  "model": "opus",
+  "enabledPlugins": {
+    "secrets-guard@golducker-claude-settings": true,
+    "test-on-edit@golducker-claude-settings": true,
+    "dev-servers@golducker-claude-settings": true,
+    "ponytail@ponytail": true,
+    "savvy-progress@claude-kit": true
+  },
+  "extraKnownMarketplaces": {
+    "golducker-claude-settings": { "source": { "source": "github", "repo": "golducker/claude-settings" } },
+    "ponytail": { "source": { "source": "github", "repo": "DietrichGebert/ponytail" } },
+    "claude-kit": { "source": { "source": "github", "repo": "johnnyvizz/claude-kit" } }
+  },
+  "autoUpdatesChannel": "latest",
+  "theme": "dark"
+}
